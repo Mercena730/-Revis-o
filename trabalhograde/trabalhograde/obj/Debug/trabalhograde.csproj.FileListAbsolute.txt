@@ -1,0 +1,10 @@
+C:\Users\Usuario\Source\Repos\trabalhograde\trabalhograde\bin\Debug\trabalhograde.exe.config
+C:\Users\Usuario\Source\Repos\trabalhograde\trabalhograde\bin\Debug\trabalhograde.exe
+C:\Users\Usuario\Source\Repos\trabalhograde\trabalhograde\bin\Debug\trabalhograde.pdb
+C:\Users\Usuario\Source\Repos\trabalhograde\trabalhograde\obj\Debug\trabalhograde.csprojAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\trabalhograde\trabalhograde\obj\Debug\trabalhograde.Form1.resources
+C:\Users\Usuario\Source\Repos\trabalhograde\trabalhograde\obj\Debug\trabalhograde.Properties.Resources.resources
+C:\Users\Usuario\Source\Repos\trabalhograde\trabalhograde\obj\Debug\trabalhograde.csproj.GenerateResource.cache
+C:\Users\Usuario\Source\Repos\trabalhograde\trabalhograde\obj\Debug\trabalhograde.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\trabalhograde\trabalhograde\obj\Debug\trabalhograde.exe
+C:\Users\Usuario\Source\Repos\trabalhograde\trabalhograde\obj\Debug\trabalhograde.pdb

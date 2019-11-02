@@ -1,0 +1,24 @@
+C:\Users\Usuario\Source\Repos\DoisForms\DoisForms\obj\Debug\DoisForms.csprojAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\DoisForms\DoisForms\obj\Debug\DoisForms.frmOrigem.resources
+C:\Users\Usuario\Source\Repos\DoisForms\DoisForms\obj\Debug\DoisForms.frmDestino.resources
+C:\Users\Usuario\Source\Repos\DoisForms\DoisForms\obj\Debug\DoisForms.Properties.Resources.resources
+C:\Users\Usuario\Source\Repos\DoisForms\DoisForms\obj\Debug\DoisForms.csproj.GenerateResource.cache
+C:\Users\Usuario\Source\Repos\DoisForms\DoisForms\obj\Debug\DoisForms.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\DoisForms\DoisForms\bin\Debug\DoisForms.exe.config
+C:\Users\Usuario\Source\Repos\DoisForms\DoisForms\bin\Debug\DoisForms.exe
+C:\Users\Usuario\Source\Repos\DoisForms\DoisForms\bin\Debug\DoisForms.pdb
+C:\Users\Usuario\Source\Repos\DoisForms\DoisForms\obj\Debug\DoisForms.exe
+C:\Users\Usuario\Source\Repos\DoisForms\DoisForms\obj\Debug\DoisForms.pdb
+C:\Users\Usuario\Source\Repos\DoisForms\DoisForms\obj\Debug\DoisForms.frmCopia.resources
+D:\Menino bom\DoisForms\DoisForms\bin\Debug\DoisForms.exe.config
+D:\Menino bom\DoisForms\DoisForms\bin\Debug\DoisForms.exe
+D:\Menino bom\DoisForms\DoisForms\bin\Debug\DoisForms.pdb
+D:\Menino bom\DoisForms\DoisForms\obj\Debug\DoisForms.csprojAssemblyReference.cache
+D:\Menino bom\DoisForms\DoisForms\obj\Debug\DoisForms.frmOrigem.resources
+D:\Menino bom\DoisForms\DoisForms\obj\Debug\DoisForms.frmDestino.resources
+D:\Menino bom\DoisForms\DoisForms\obj\Debug\DoisForms.frmCopia.resources
+D:\Menino bom\DoisForms\DoisForms\obj\Debug\DoisForms.Properties.Resources.resources
+D:\Menino bom\DoisForms\DoisForms\obj\Debug\DoisForms.csproj.GenerateResource.cache
+D:\Menino bom\DoisForms\DoisForms\obj\Debug\DoisForms.csproj.CoreCompileInputs.cache
+D:\Menino bom\DoisForms\DoisForms\obj\Debug\DoisForms.exe
+D:\Menino bom\DoisForms\DoisForms\obj\Debug\DoisForms.pdb
